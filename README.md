@@ -35,8 +35,8 @@
 
             // إعداد المتغيرات  
             const token = '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'; // استبدل برمز الوصول الخاص بك  
-            const repo = 'yousefmrim
-            /YOUR_REPO'; mariamyousef486   
+            const repo = 'yousefmrim';
+            /YOUR_REPO'; 'mariamyousef486';   
             const filePath = 'YOUR_FILE_PATH'; // استبدل بمسار الملف الذي ترغب في تحديثه  
 
             // اجمع المعلومات في صيغة نصية  
